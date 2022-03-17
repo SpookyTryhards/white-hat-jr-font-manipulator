@@ -20,3 +20,10 @@
     background-color: black;
 }
 
+
+canvas{
+    box-shadow: 6px 6px 6px grey;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 10px;
+}
